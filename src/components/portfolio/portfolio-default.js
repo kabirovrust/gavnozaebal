@@ -93,7 +93,7 @@ export default function PortfolioDefault({ ActiveIndex, Animation }) {
                                     <div className="list_inner">
                                         <div className="image">
                                             <img src="img/thumbs/1-1.jpg" alt="" />
-                                            <div className="main" data-img-url="img/portfolio/Waffle.jpg" onClick={toggleModalSeven}></div>
+                                            <div className="main" data-img-url="img/portfolio/waffle_sq.jpg" onClick={toggleModalSeven}></div>
                                             <span className="icon"><i className="icon-doc-text-inv"></i></span>
                                             <div className="details">
                                                 <h3>Скандинавское блюдо</h3>

@@ -14,63 +14,70 @@ export default function Service({ ActiveIndex }) {
         {
             img: "img/news/1.jpg",
             svg: <SVG_Custom1 />,
-            text: "Developing website involves creating your website, making it one of the most vital parts of your marketing",
-            date: "August 9, 2021",
-            title: "3D Animation!",
-            text1: "Cavani is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-            text2: "In today's digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user's first impression relates to web design. It's also why web design services can have an immense impact on your company's bottom line.",
-            text3: "That's why more companies are not only reevaluating their website's design but also partnering with Kura, the web design agency that's driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+            text: "Введение страницы Instagram",
+            date: "August 9, 2022",
+            title: "Instagram",
+            text1: "Что входит:",
+            text2: "- Разработка контент-плана (при необходимости).",
+            text3: "- Текст.",
+            text4: "- Публикация фотографий.",
+            text5: "- Размещение поста.",
+            text6: "- Количество необходимых публикаций сторис (обговаривается отдельно).",
+            text7: "- Подбор хештегов.",
+            text8: "- 10 постов в течении месяца",
+            text9: <br/>,
+            text10: "Данная услуга НЕ является продвижением или рекламой. А именно ВЕДЕНИЕ ВАШЕЙ СТРАНИЦЫ в инстаграм. Оно никак не связано с количеством подписчиков или заказов, а связано с публикацией ваших фото с постом. Продвижением соц. сетей занимается таргетолог.\n" +
+                "Предоставление необходимого материала происходит заранее заказчиком! Действия по работе и сотрудничестве обговариваются заранее.",
         },
         {
             img: "img/news/2.jpg",
             svg: <SVG_Custom2 />,
-            text: "Developing website involves creating your website, making it one of the most vital parts of your marketing",
-            date: "August 9, 2021",
-            title: "Explainer Videos",
-            text1: "Cavani is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-            text2: "In today's digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user's first impression relates to web design. It's also why web design services can have an immense impact on your company's bottom line.",
-            text3: "That's why more companies are not only reevaluating their website's design but also partnering with Kura, the web design agency that's driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+            text: "Написание постов для группы в телеграмм",
+            date: "August 9, 2022",
+            title: "Telegram",
+            text1: "Что входит:",
+            text2: "- Контент-план и тема текста при необходимости.",
+            text3: "- 3 поста в неделю.",
+            text4: "- Допускается 1 вправка от заказчика за каждый текст.",
+            text5: "- Сотрудничество в течении месяца.",
+            text6: <br/>,
+            text7: "Все изменения в тексте должны быть конкретизированными. Действия обговариваются заранее. Каждое НОВОЕ изменение носит дополнительных характер оплаты услуг.",
+            text8: " Цените и уважайте чужой труд и время!",
+
         },
         {
             img: "img/news/3.jpg",
             svg: <SVG_Custom3 />,
-            text: "Заполнение Instagram аккаунта ",
+            text: "Заполнение сайта контентом ",
             date: "August 9, 2021",
-            title: "Введение Instagram",
-            text1: "Cavani is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-            text2: "In today's digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user's first impression relates to web design. It's also why web design services can have an immense impact on your company's bottom line.",
-            text3: "That's why more companies are not only reevaluating their website's design but also partnering with Kura, the web design agency that's driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+            title: "Контент на сайт",
+            text1: "Что входит:",
+            text2: "- Предоставление ЗАРАНЕЕ ВСЕХ необходимых материалов заказчиком.",
+            text3: "- Написание статьи с грамотно подобранной темой, исходя из поставленной задачи. Либо заказчик предоставляет свою готовую тему.",
+            text4: "- Построение плана статьи:",
+            text5: "1. заголовок",
+            text6: "2. введение",
+            text7: "3. основная часть",
+            text8: "4. заключение",
+            text9: "5. призыв к действию (призвать читателей к какому-то действию, например, поделиться в соц. сетях, оставить комментарий).",
+            text10: "- Правки от заказчика (до 2- х вправок).",
+            text11: "- 1 статья в день (сроки  и количество статей обговариваются).",
+            text12: <br/>,
+            text13: "Вправки должны быть по существу, без изменения изначальной задачи. Дальнейшие вправки и  изменение изначальной задачи являются НОВЫМ заказом за НОВУЮ оплату услуг.",
         },
         {
             img: "img/news/4.jpg",
             svg: <SVG_Custom4 />,
-            text: "Developing website involves creating your website, making it one of the most vital parts of your marketing",
-            date: "August 9, 2021",
-            title: "Educational Video",
-            text1: "Cavani is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-            text2: "In today's digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user's first impression relates to web design. It's also why web design services can have an immense impact on your company's bottom line.",
-            text3: "That's why more companies are not only reevaluating their website's design but also partnering with Kura, the web design agency that's driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+            text: "Создание постов для группы вк",
+            date: "August 9, 2022",
+            title: "VK - вконтакте",
+            text1: "Что входит:",
+            text2: "- Разработка контент плана.",
+            text3: "- Создание текста для постов.",
+            text4: "- Регулярная публикация (каждый день по 1 тексту) интересных постов от имени группы.",
+            text5: "Данная услуга НЕ является ВЕДЕНИЕМ группы, а именно, разработка контент-плана,  написание и публикация текста.",
         },
-        {
-            img: "img/news/5.jpg",
-            svg: <SVG_Custom5 />,
-            text: "Developing website involves creating your website, making it one of the most vital parts of your marketing",
-            date: "August 9, 2021",
-            title: "3D Game Art",
-            text1: "Cavani is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-            text2: "In today's digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user's first impression relates to web design. It's also why web design services can have an immense impact on your company's bottom line.",
-            text3: "That's why more companies are not only reevaluating their website's design but also partnering with Kura, the web design agency that's driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
-        },
-        {
-            img: "img/news/6.jpg",
-            svg: <SVG_Custom6 />,
-            text: "Developing website involves creating your website, making it one of the most vital parts of your marketing",
-            date: "August 9, 2021",
-            title: "Presentations",
-            text1: "Cavani is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-            text2: "In today's digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user's first impression relates to web design. It's also why web design services can have an immense impact on your company's bottom line.",
-            text3: "That's why more companies are not only reevaluating their website's design but also partnering with Kura, the web design agency that's driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
-        }
+
     ]
     return (
         <>
@@ -97,6 +104,7 @@ export default function Service({ ActiveIndex }) {
                                                         <p>{item.text1}</p>
                                                         <p>{item.text2}</p>
                                                         <p>{item.text3}</p>
+                                                        <p>{item.text4}</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -137,9 +145,20 @@ export default function Service({ ActiveIndex }) {
                                         <h3>{modalContent.title}</h3>
                                     </div>
                                     <div className="descriptions">
-                                        <p>{modalContent.text1}</p>
-                                        <p>{modalContent.text2}</p>
-                                        <p>{modalContent.text3}</p>
+                                        <div>{modalContent.text1}</div>
+                                        <div>{modalContent.text2}</div>
+                                        <div>{modalContent.text3}</div>
+                                        <div>{modalContent.text4}</div>
+                                        <div>{modalContent.text5}</div>
+                                        <div>{modalContent.text6}</div>
+                                        <div>{modalContent.text7}</div>
+                                        <div>{modalContent.text8}</div>
+                                        <div>{modalContent.text9}</div>
+                                        <div>{modalContent.text10}</div>
+                                        <div>{modalContent.text11}</div>
+                                        <div>{modalContent.text12}</div>
+                                        <div>{modalContent.text13}</div>
+
                                     </div>
                                 </div>
                             </div>
